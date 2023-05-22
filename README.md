@@ -18,3 +18,5 @@ Fields: {blue, red, green, yellow}
 Restrictions: Adjacent countries must be in different colors
 
 # Output
+
+![145997912-7c15a792-2396-4508-974b-56f949a9362c](https://github.com/asrinoztin/map_coloring_with_backtracking/assets/58219688/8a17b657-f16c-4259-b1dd-543384a21d77)
